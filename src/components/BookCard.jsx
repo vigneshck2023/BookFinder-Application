@@ -1,9 +1,10 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { Star, Heart } from "lucide-react";
+import { Heart, Star } from "lucide-react";
 
 export default function BookCard({
   book,
+  shelfNumber,
   onClick,
   onAddToFavorites,
   onRemoveFromFavorites,
@@ -49,11 +50,13 @@ export default function BookCard({
           />
         </button>
       </div>
+
       <div className="book-info">
         <h3 className="book-title">{book.title}</h3>
         <p className="book-author">
           {book.author_name ? book.author_name.join(", ") : "Unknown Author"}
         </p>
+
         <div className="book-meta">
           <span className="book-year">{book.first_publish_year || "N/A"}</span>
           {book.ratings_average && (
@@ -63,6 +66,7 @@ export default function BookCard({
             </span>
           )}
         </div>
+
         {showAddButton && (
           <button
             className={`add-to-favorites-btn ${

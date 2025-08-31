@@ -1,5 +1,5 @@
 import React from "react";
-import { Home, Heart } from "lucide-react";
+import { Home, Heart, Settings, LogOut } from "lucide-react";
 
 export default function Sidebar({ activeView, onNavigate, favoritesCount }) {
   return (
