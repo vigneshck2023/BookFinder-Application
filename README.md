@@ -23,3 +23,13 @@ The app provides an elegant user interface with book cards, detailed book pages,
 ---
 
 ## 📂 Folder Structure
+
+OpenShelf/
+├── public/ # Static assets
+├── src/
+│ ├── components/ # Reusable UI components (Cards, Navbar, Sidebar, etc.)
+│ ├── pages/ # Main pages (Home, Favorites, Details)
+│ ├── hooks/ # Custom hooks (if any)
+│ ├── App.js # Root app file
+│ └── index.js # Entry point
+└── package.json # Dependencies and scripts
