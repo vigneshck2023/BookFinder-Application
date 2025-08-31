@@ -4,6 +4,18 @@ OpenShelf is a modern and minimal book discovery app where users can search for 
 
 The app provides an elegant user interface with book cards, detailed book pages, and a favorites system — making it easy to discover and organize your next read.  
 
+## 📖 About the Project  
+
+OpenShelf is a simple and user-friendly **book finder application**.  
+The main idea behind this project is to help readers **explore, search, and discover books** easily from a large collection using the Open Library API.  
+
+Instead of browsing multiple sites, OpenShelf provides:  
+- A clean and minimal interface to search for books.  
+- Quick access to book details like title, author, and cover.  
+- The ability to save favorite books for later reference.  
+
+The motive of building this project is to make book discovery **easy, accessible, and enjoyable** for everyone — whether you’re a casual reader, a student, or a book lover looking for your next read.  
+
 ---
 
 ## 🚀 Features
