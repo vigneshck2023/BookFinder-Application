@@ -1,12 +1,25 @@
-# React + Vite
+# 📚 OpenShelf
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+OpenShelf is a modern and minimal book discovery app where users can search for books, view details, explore similar books, and manage their favorites.  
 
-Currently, two official plugins are available:
+The app provides an elegant user interface with book cards, detailed book pages, and a favorites system — making it easy to discover and organize your next read.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
+- 🔍 **Search Books** – Find books instantly using a search bar.  
+- 📖 **Book Cards** – Browse books in a clean card layout.  
+- ❤️ **Favorites** – Add/remove books to your favorites list.  
+- 📄 **Book Details Page** – View detailed information about a book.  
+- 📚 **Similar Books** – Get suggestions for related books.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS (for styling)  
+- **Icons & UI Components:** Lucide / shadcn/ui (if used)  
+- **Backend / API:** Open Library API (or any book API you used)  
+
+---
+
+## 📂 Folder Structure
