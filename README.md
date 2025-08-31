@@ -17,20 +17,12 @@ The app provides an elegant user interface with book cards, detailed book pages,
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Tailwind CSS (for styling)  
-- **Icons & UI Components:** Lucide / shadcn/ui (if used)  
-- **Backend / API:** Open Library API (or any book API you used)  
+- **Icons & UI Components:** Lucide, shadcn/ui (if used)  
+- **Animations:** Framer Motion  
+- **Backend / API:** Open Library API (or any book API used)  
 
 ---
 
 ## 📂 Folder Structure
+<img width="572" height="208" alt="image" src="https://github.com/user-attachments/assets/3dee601e-8b21-4e60-9386-c31c415d3424" />
 
-OpenShelf/
-├──OpenShelf/
-├── public/               # Static assets
-├── src/
-│   ├── components/       # Reusable UI components (Cards, Navbar, Sidebar, etc.)
-│   ├── pages/            # Main pages (Home, Favorites, Details)
-│   ├── hooks/            # Custom hooks (if any)
-│   ├── App.js            # Root app file
-│   └── index.js          # Entry point
-└── package.json          # Dependencies and scripts
