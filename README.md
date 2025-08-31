@@ -38,3 +38,10 @@ The motive of building this project is to make book discovery **easy, accessible
 ## 📂 Folder Structure
 <img width="572" height="208" alt="image" src="https://github.com/user-attachments/assets/3dee601e-8b21-4e60-9386-c31c415d3424" />
 
+---
+
+## ⚡ Installation & Setup
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/openshelf.git
+   cd openshelf
