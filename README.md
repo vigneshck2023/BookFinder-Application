@@ -16,8 +16,8 @@ The app provides an elegant user interface with book cards, detailed book pages,
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Tailwind CSS (for styling)  
-- **Icons & UI Components:** Lucide, shadcn/ui (if used)  
+- **Frontend:** React, CSS & Tailwind CSS (for styling), 
+- **Icons & UI Components:** Lucide
 - **Animations:** Framer Motion  
 - **Backend / API:** Open Library API (or any book API used)  
 
