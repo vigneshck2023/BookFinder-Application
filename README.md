@@ -19,11 +19,17 @@ The motive of building this project is to make book discovery **easy, accessible
 ---
 
 ## 🚀 Features
-- 🔍 **Search Books** – Find books instantly using a search bar.  
-- 📖 **Book Cards** – Browse books in a clean card layout.  
-- ❤️ **Favorites** – Add/remove books to your favorites list.  
-- 📄 **Book Details Page** – View detailed information about a book.  
-- 📚 **Similar Books** – Get suggestions for related books.  
+🔍 **Search Books** – Find books instantly using a search bar.
+
+📖 **Book Cards** – Browse books in a clean card layout.
+
+❤️ **Favorites** – Add/remove books to your favorites list.
+
+📄 **Book Details Page** – View detailed information about a book.
+
+📚 **Similar Books** – Get suggestions for related books.
+
+🗂️ **Shelf Number Allocation** – Each book gets a shelf number for easy navigation and organization.
 
 ---
 
